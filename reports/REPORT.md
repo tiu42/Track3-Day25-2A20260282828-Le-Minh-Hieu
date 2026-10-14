@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Lê Minh Hiếu — MSV 2A20260282828  **Commit:** _(điền hash commit nộp bài)_  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Lê Minh Hiếu — MSV 2A20260282828  **Commit:** 7535bb7  **Điểm tự động (`make grade`):** 84 / 88
 
 
 > Mọi số dưới đây lấy từ `reports/gameday/*.json`, `reports/cache/*.json`, `reports/workflows.json`, `reports/slo.json`
